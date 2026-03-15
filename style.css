@@ -1,0 +1,219 @@
+body {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+
+
+
+}
+
+.qw {
+    height: 15vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.mainup {
+    width: 70vw;
+    height: 8vh;
+    display: flex;
+
+    justify-content: space-between;
+
+}
+
+.leftup {
+    width: 8vw;
+    height: 8vh;
+    display: flex;
+    justify-content: left;
+
+
+}
+
+.lup1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35;
+    width: 8vw;
+    height: 8vh;
+    background-color: black;
+    color: yellow;
+    align-content: center;
+    text-align: center;
+    border-radius: 5px;
+    font-style: italic;
+
+}
+
+.lup2 {
+    height: 8vh;
+    width: 20vw;
+
+}
+
+.lup21 {
+    height: 6vh;
+    width: 18vw;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: end;
+    margin-left: 10px;
+    margin-top: 2px;
+
+
+
+
+
+
+
+}
+
+.lup22 {
+    height: 2vh;
+    width: 18vw;
+    font-size: x-small;
+    margin-left: 10px;
+    color: rgb(26, 26, 26);
+}
+
+.er {
+    display: flex;
+    width: 30vw;
+    height: 8vh;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+
+}
+
+.menu {
+    color: rgb(26, 26, 26);
+    border: none;
+
+
+}
+
+
+
+.fg {
+    display: flex;
+    justify-content: center;
+}
+
+.dowload {
+    height: 25vh;
+    width: 50vw;
+
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.dowload1 {
+    height: 12vh;
+    font-size: 35px;
+
+
+}
+
+.dowload2 {
+    height: 12vh;
+    font-size: 22px;
+    text-align: center;
+    color: rgb(58, 55, 55);
+
+}
+
+.dowload3 {
+    height: 6vh;
+
+    font-size: 18px;
+    align-content: center;
+    text-align: center;
+    width: 270px;
+    background-color: aqua;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+
+.bold {
+    font-weight: bolder;
+}
+.we{
+    display: flex;
+    width: 50vw;
+    height: 8vh;
+    
+    margin: 40px;
+margin-left: 25vw;
+
+}
+.we1{
+    width: 70px;
+    height: 8vh;
+    background-color: yellow;
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    align-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    border-radius: 5px;
+    
+}
+.we2{
+    width: 20px;
+}
+.we3{
+    font-size: 24px;
+    align-content: center;
+    padding-bottom: 5px;
+}
+.we4{
+    font-size: 12px;
+    align-content: center;
+  color:rgb(58, 55, 55) ;
+
+}
+.lastbox{
+    width: 100vw;
+    height: 750px;
+    
+    display: flex;
+    justify-content: center;
+}
+.allink{
+    width: 50vw;
+    height: 750px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.all{
+    height:200px;
+    width: 200px;
+    border: 2px solid black;
+    background:radial-gradient(at bottom right,rgb(236, 23, 23),rgb(243, 255, 13));
+    align-content: center;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    
+
+}
+.rtg{
+    display: flex; 
+    justify-content: space-between;
+}
